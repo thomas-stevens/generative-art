@@ -18,6 +18,7 @@ Ik sta voor minimalisme, vind de kleuren zwart en wit heel fijn combineren daarb
 Hobby's
 - Sporten (voetbal, darten, tafeltennis)
 - UI Interacties bekijken en analyseren (Muzli)
+- Ik vindt de natuur + dieren wel tof, Netflix documentaire 'Our Planet'.
 - Gamen (Call of Duty)
 
 ## Features
