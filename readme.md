@@ -11,7 +11,7 @@
 
 ## Concept
 
-`Beschrijf in het algemeen je concept van je project.`
+### Inspiratie
 
 Ik sta voor minimalisme, vind de kleuren zwart en wit heel fijn combineren daarbij. Ik heb zelf lichtelijke OCD, dus kan er slecht tegen als dingen niet goed uitgelijnd zijn en dat wil ik mee brengen in m'n uiting. Los van dit vindt ik symmetrische ontwerpen heel fijn om naar te kijken.
 
@@ -20,6 +20,10 @@ Hobby's
 - UI Interacties bekijken en analyseren (Muzli)
 - Ik vindt de natuur + dieren wel tof, Netflix documentaire 'Our Planet'.
 - Gamen (Call of Duty)
+
+### Idee
+Championschip Manager / Football manager achtige vormgeving. Een voetbalveld van bovenaf (2D). Een wedstrijd wordt gespeeld met daarin de spelers + de bal, deze bewegen allemaal en als er gescoord wordt dan komt er geluid bij (denk aan fans die juigen, scoor feest geluid). Iedere wedstrijd is anders, dus het is nooit hetzelfde
+
 
 ## Features
 
