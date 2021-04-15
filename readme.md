@@ -3,15 +3,22 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Thomas Stevens`
+* **Klas:** `vid2b`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Katten zijn te gek!`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
 
 `Beschrijf in het algemeen je concept van je project.`
+
+Ik sta voor minimalisme, vind de kleuren zwart en wit heel fijn combineren daarbij. Ik heb zelf lichtelijke OCD, dus kan er slecht tegen als dingen niet goed uitgelijnd zijn en dat wil ik mee brengen in m'n uiting. Los van dit vindt ik symmetrische ontwerpen heel fijn om naar te kijken.
+
+Hobby's
+- Sporten (voetbal, darten, tafeltennis)
+- UI Interacties bekijken en analyseren (Muzli)
+- Gamen (Call of Duty)
 
 ## Features
 
