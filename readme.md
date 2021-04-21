@@ -36,8 +36,9 @@ Input vanuit een database:
 
 
 ## Features
-
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
+- Noise toevoegen bij de lopende spelers (check het Notion bord)
+- Input vanuit de gebruiker toevoegen adhv Events. Math.random
 
 ## Onderzoek & inspiratie
 Ik heb allereerst inspiratie op gedaan met wat ga ik doen? Ik vond het vrij lastig, maar door middel van een aantal tips kwam ik gelijk terecht bij een hobby van mij. Namelijk voetbal. Je kan hier van alles mee, maar waar ik vervolgens op kwam was het spelletje van vroeger: Championship Manager. Dit is een 2D simulatie spel, waarin je zelf de manager bent van een club. Ik heb dit ontzettend veel gespeeld vroeger en daarom leek het mij tof om dit uit te werken met p5.
