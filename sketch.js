@@ -5,8 +5,9 @@ function setup() {
 }
 
 function draw() {
-  background(220);
-  ellipse(width / 2, height / 2, 50, 50);
+  background('#1b4332');
+    rect(width / 4, height / 5, 1000, 600);
+      noStroke();
 }
 
 function windowResized() {

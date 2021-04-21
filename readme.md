@@ -32,6 +32,7 @@ Input vanuit de gebruiker:
 Input vanuit een database:
 - https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 - https://datahub.io/collections/football
+- https://github.com/openfootball/world-cup
 
 
 ## Features
@@ -53,6 +54,7 @@ Ik ben hierna meteen gaan kijken, waar kan ik data vandaan halen van voetbalweds
 - https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 - https://datahub.io/collections/football
 - https://github.com/jalapic/engsoccerdata
+- https://github.com/openfootball/world-cup
 
 
 ## Voortang
@@ -61,9 +63,11 @@ Ik ben hierna meteen gaan kijken, waar kan ik data vandaan halen van voetbalweds
 
 ### Week-1
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Begonnen met inspiratie op doen, gekeken naar wat lijkt me tof en creatief. Ik heb gekozen voor voetbal, met als achterliggende gedachte (Championship Manager - spel). Ik had iets meer aandacht kunnen besteden aan m'n onderzoek + concept in deze week, dus ik ben na de 2de les gelijk daarmee aan de slag gegaan.
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Ik ben aan de hand van Danny's feedback gaan kijken naar een database die de resultaten van de wedstrijden binnen kan halen. Ik kwam hier ook meteen op een nieuw idee, ik wil me focussen op het WK van 2018. 
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
