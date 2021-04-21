@@ -44,11 +44,11 @@ Ik allereerst inspiratie op gedaan met wat ga ik doen? Ik vond het vrij lastig, 
 
 Om mijn onderzoek te starten, ging ik eerst checken of dit mogelijk was bij Danny. Hij gaf het volgende als antwoord:
 
-Haalbaar? Zeker. Haalbaar binnen de tijd voor dit vak? Vrij intens, maar het moet te doen zijn als ik er zo naar kijk.
+<i>Haalbaar? Zeker. Haalbaar binnen de tijd voor dit vak? Vrij intens, maar het moet te doen zijn als ik er zo naar kijk.
 Denk wel na over twee dingetjes;
 - Ik weet niet of je er een 'letterlijke' data achtige visualisatie van moet maken. Zoals je nu op die afbeelding laat zien. Ik zou wel nadenken hoe je het op een iets abstractere vorm kan weergeven.
 - De input is nu een dataset van voetbalwedstrijden? Is die beschikbaar? Denk ook nog na of je misschien als gebruiker zelf ook nog input kan geven. Je wilt voorkomen lijkt me dat een soort van 'filmpje' gaat worden. 
-- Het is nu natuurlijk tof als terwijl de wedstrijd zich 'afspeelt' er nog allemaal variablen zijn die je wellicht live kan aanpassen.
+- Het is nu natuurlijk tof als terwijl de wedstrijd zich 'afspeelt' er nog allemaal variablen zijn die je wellicht live kan aanpassen.<i>
 
 Ik ben hierna meteen gaan kijken, waar kan ik data vandaan halen om resultaten van voetbalwedstrijden 
 
