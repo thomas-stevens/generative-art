@@ -13,7 +13,7 @@
 
 ### Inspiratie
 
-Ik sta voor minimalisme, vind de kleuren zwart en wit heel fijn combineren daarbij. Ik heb zelf lichtelijke OCD, dus kan er slecht tegen als dingen niet goed uitgelijnd zijn en dat wil ik mee brengen in m'n uiting. Los van dit vindt ik symmetrische ontwerpen heel fijn om naar te kijken.
+<!-- Ik sta voor minimalisme, vind de kleuren zwart en wit heel fijn combineren daarbij. Ik heb zelf lichtelijke OCD, dus kan er slecht tegen als dingen niet goed uitgelijnd zijn en dat wil ik mee brengen in m'n uiting. Los van dit vindt ik symmetrische ontwerpen heel fijn om naar te kijken. -->
 
 Hobby's
 - Sporten (voetbal, darten, tafeltennis)
@@ -21,8 +21,17 @@ Hobby's
 - Ik vindt de natuur + dieren wel tof, Netflix documentaire 'Our Planet'.
 - Gamen (Call of Duty)
 
-### Idee
-Championschip Manager / Football manager achtige vormgeving. Een voetbalveld van bovenaf (2D). Een wedstrijd wordt gespeeld met daarin de spelers + de bal, deze bewegen allemaal en als er gescoord wordt dan komt er geluid bij (denk aan fans die juigen, scoor feest geluid). Iedere wedstrijd is anders, dus het is nooit hetzelfde
+### Idee 
+Championschip Manager / Football Manager concept. In mijn jeugd heb ik namelijk maanden in dit spelletje gespendeerd en het lijkt me daarom heel tof om dit te maken met p5. Het is een voetbalveld van bovenaf (2D), een wedstrijd wordt gespeeld met daarin de spelers + de bal, deze bewegen allemaal en als er gescoord wordt dan komt er geluid bij (denk aan fans die juigen, scoor/feest geluid). Iedere wedstrijd kan anders eindigen, omdat alles af hangt van hoe de spelers presteren.
+
+Input vanuit de gebruiker:
+- Gokken wie er gaat winnen van de 2 voetbalteams
+- Juichen 
+- Fans laten zingen
+
+Input vanuit een database:
+https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+https://datahub.io/collections/football
 
 
 ## Features
@@ -31,6 +40,17 @@ Championschip Manager / Football manager achtige vormgeving. Een voetbalveld van
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+Ik allereerst inspiratie op gedaan met wat ga ik doen? Ik vond het vrij lastig, maar door middel van een aantal tips kwam ik gelijk terecht bij een hobby van mij. Namelijk voetbal. Je kan hier van alles mee, maar waar ik vervolgens op kwam was het spelletje van vroeger: Championship Manager. Dit is een 2D simulatie spel, waarin je zelf de manager bent van een club. Ik heb dit ontzettend veel gespeeld vroeger en daarom leek het mij tof om dit uit te werken met p5.
+
+Om mijn onderzoek te starten, ging ik eerst checken of dit mogelijk was bij Danny. Hij gaf het volgende als antwoord:
+
+Haalbaar? Zeker. Haalbaar binnen de tijd voor dit vak? Vrij intens, maar het moet te doen zijn als ik er zo naar kijk.
+Denk wel na over twee dingetjes;
+- Ik weet niet of je er een 'letterlijke' data achtige visualisatie van moet maken. Zoals je nu op die afbeelding laat zien. Ik zou wel nadenken hoe je het op een iets abstractere vorm kan weergeven.
+- De input is nu een dataset van voetbalwedstrijden? Is die beschikbaar? Denk ook nog na of je misschien als gebruiker zelf ook nog input kan geven. Je wilt voorkomen lijkt me dat een soort van 'filmpje' gaat worden. 
+- Het is nu natuurlijk tof als terwijl de wedstrijd zich 'afspeelt' er nog allemaal variablen zijn die je wellicht live kan aanpassen.
+
+Ik ben hierna meteen gaan kijken, waar kan ik data vandaan halen om resultaten van voetbalwedstrijden 
 
 ## Voortang
 
