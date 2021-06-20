@@ -23,8 +23,8 @@ function start() {
   bounce = 0.3;
   gravity = 0.2;
   speed = 5;
-  bg = loadImage("/images/soccerfield.png");
-  voetbal = loadImage("/images/voetbal.svg");
+  bg = loadImage("images/soccerfield.png");
+  voetbal = loadImage("images/voetbal.svg");
 }
 
 // setup p5 canvas
@@ -34,8 +34,8 @@ function setup() {
   slider.position(10, 10);
   slider.style("width", "80px");
   start();
-  bg = loadImage("/images/soccerfield.png");
-  crowd = createAudio("/audio/crowd.mp3");
+  bg = loadImage("images/soccerfield.png");
+  crowd = createAudio("audio/crowd.mp3");
   crowd.autoplay(true);
   crowd.volume(0.05);
 }
@@ -46,11 +46,11 @@ function keyPressed() {
     start();
   }
   if (key === "a") {
-    bg = loadImage("/images/streetfield.png");
+    bg = loadImage("images/streetfield.png");
   } else if (key === "b") {
-    bg = loadImage("/images/space.jpg");
+    bg = loadImage("images/space.jpg");
   } else if (key === "c") {
-    bg = loadImage("/images/winkel.png");
+    bg = loadImage("images/winkel.png");
   }
 }
 function draw() {
