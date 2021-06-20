@@ -73,3 +73,6 @@ Gefocust op nog extra dingetjes zoals audio toevoegen van publiek, tekst toevoeg
 * https://editor.p5js.org/fergfluff/sketches/H1osPdVob
 * https://p5js.org/reference/#/p5/createSlider
 * Lizzy, heeft me voorbeelden gestuurd van hoe zij begon
+* Daan, oud klasgenootje
+* https://p5js.org/reference/
+

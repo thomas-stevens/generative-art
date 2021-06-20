@@ -6,16 +6,21 @@ let speed = 5;
 let gravity = 0.2;
 let slider = 0; //UI slider
 let bounce = 1; //bounces the ball
-let test;
+let voetbal;
+let crowd;
+const stop = `S: STOP BOUNCE`;
+const reset = `UP ARROW: RESET`;
+const sliderText = `Slider: Snelheid veranderen`;
+const changeBG = `A, B OF C: Achtergrond veranderen`;
 
 function preload() {
-  test = loadImage("./images/voetbal.svg");
+  voetbal = loadImage("./assets/voetbal.svg");
 }
 function start() {
   bounce = 1;
   gravity = 0.2;
   speed = 5;
-  bg = loadImage("./images/soccerfield.png");
+  bg = loadImage("./assets/soccerfield.png");
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -23,7 +28,10 @@ function setup() {
   slider.position(10, 10);
   slider.style("width", "80px");
   start();
-  bg = loadImage("./images/soccerfield.png");
+  bg = loadImage("./assets/soccerfield.png");
+  crowd = createAudio("./assets/crowd.mp3");
+  crowd.autoplay(true);
+  crowd.volume(0.05);
 }
 
 //make the ball move up and down using linear velocity (or
@@ -33,22 +41,23 @@ function keyPressed() {
     start();
   }
   if (key === "a") {
-    bg = loadImage("./images/streetfield.png");
+    bg = loadImage("./assets/streetfield.png");
   } else if (key === "b") {
-    bg = loadImage("./images/space.jpg");
+    bg = loadImage("./assets/space.jpg");
   } else if (key === "c") {
-    bg = loadImage("./images/winkel.png");
+    bg = loadImage("./assets/winkel.png");
   }
 }
 function draw() {
   background(bg);
+  fill(255);
+  text(stop, 100, 100, 500, 500); // Text wraps within text box
+  text(reset, 100, 150, 500, 500); // Text wraps within text box
+  text(sliderText, 1000, 100, 500, 500); // Text wraps within text box
+  text(changeBG, 1000, 150, 500, 500); // Text wraps within text box
+  textSize(24);
 
-  // noStroke();
-  // c = color(255, 255, 255);
-  // fill(c);
-  // ellipse(width / 2, y, 100, 100);
-
-  image(test, windowWidth / 2, y, 100, 100);
+  image(voetbal, windowWidth / 2, y, 75, 75);
 
   speed = (slider.value() / 2) * bounce * -1;
 
