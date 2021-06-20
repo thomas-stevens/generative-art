@@ -29,7 +29,7 @@ function setup() {
   slider.style("width", "80px");
   start();
   bg = loadImage("images/soccerfield.png");
-  crowd = createAudio("images/crowd.mp3");
+  crowd = createAudio("audio/crowd.mp3");
   crowd.autoplay(true);
   crowd.volume(0.05);
 }
