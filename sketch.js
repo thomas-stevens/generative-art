@@ -14,13 +14,13 @@ const sliderText = `Slider: Snelheid veranderen`;
 const changeBG = `A, B OF C: Achtergrond veranderen`;
 
 function preload() {
-  voetbal = loadImage("./assets/voetbal.svg");
+  voetbal = loadImage("images/voetbal.svg");
 }
 function start() {
   bounce = 1;
   gravity = 0.2;
   speed = 5;
-  bg = loadImage("./assets/soccerfield.png");
+  bg = loadImage("images/soccerfield.png");
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -28,8 +28,8 @@ function setup() {
   slider.position(10, 10);
   slider.style("width", "80px");
   start();
-  bg = loadImage("./assets/soccerfield.png");
-  crowd = createAudio("./assets/crowd.mp3");
+  bg = loadImage("images/soccerfield.png");
+  crowd = createAudio("images/crowd.mp3");
   crowd.autoplay(true);
   crowd.volume(0.05);
 }
@@ -41,11 +41,11 @@ function keyPressed() {
     start();
   }
   if (key === "a") {
-    bg = loadImage("./assets/streetfield.png");
+    bg = loadImage("images/streetfield.png");
   } else if (key === "b") {
-    bg = loadImage("./assets/space.jpg");
+    bg = loadImage("images/space.jpg");
   } else if (key === "c") {
-    bg = loadImage("./assets/winkel.png");
+    bg = loadImage("images/winkel.png");
   }
 }
 function draw() {
