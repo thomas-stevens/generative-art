@@ -75,4 +75,5 @@ Gefocust op nog extra dingetjes zoals audio toevoegen van publiek, tekst toevoeg
 * Lizzy, heeft me voorbeelden gestuurd van hoe zij begon
 * Daan, oud klasgenootje
 * https://p5js.org/reference/
+* https://p5js.org/examples/interaction-wavemaker.html
 
